@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  db-insert-script:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-01T11:27:02.592036624Z"
+    description: A Helm chart for Kubernetes
+    digest: 29df38b58bfe9607ebb5494f4346d5f41acc8a8dfec139db79ad7116339bfebd
+    name: db-insert-script
+    type: application
+    urls:
+    - https://github.com/YSergey/helm-charts-repo/releases/download/db-insert-script-0.1.0/db-insert-script-0.1.0.tgz
+    version: 0.1.0
   myfirstchart:
   - apiVersion: v2
     appVersion: 0.2.0
@@ -21,4 +32,4 @@ entries:
     urls:
     - https://github.com/YSergey/helm-charts-repo/releases/download/myfirstchart-0.1.0/myfirstchart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-22T05:49:30.083094119Z"
+generated: "2025-01-01T11:27:02.59204521Z"
